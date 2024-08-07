@@ -16,3 +16,7 @@ Todos os exercicios propostos pelo professor estao na pasta EXERCICIOS-PROPOSTOS
 Abra o VISUALG e clique em Arquivo > Abrir ou pressione Ctrl+A. Em seguida, localize o arquivo desejado em sua respectiva pasta.
 
 BONS ESTUDOS!
+
+
+
+
